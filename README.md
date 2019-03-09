@@ -1,2 +1,2 @@
-# HomeworkSubmission_Week1
-Submission of homework - Week 1
+# HomeworkSubmission - Machine Learning from Coderschool
+Submission of homework
